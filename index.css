@@ -82,7 +82,7 @@ body {
 input {
     background-color: lightskyblue;
     font-size: 2rem;
-    /*border: none;*/
+    border: none;
 }
 .answer {
     width: 50%;
